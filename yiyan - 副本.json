@@ -1,0 +1,368 @@
+[
+  {
+    "content": "逝者如斯夫，不舍昼夜。",
+    "author": "孔子",
+    "from": null,
+    "tags": ["classic"]
+  },
+  {
+    "content": "长风破浪会有时，直挂云帆济沧海。",
+    "author": "李白",
+    "from": null,
+    "tags": ["inspirational"]
+  },
+  {
+    "content": "人生得意须尽欢，莫使金樽空对月。",
+    "author": "李白",
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "会当凌绝顶，一览众山小。",
+    "author": "杜甫",
+    "from": null,
+    "tags": ["inspirational"]
+  },
+  {
+    "content": "山重水复疑无路，柳暗花明又一村。",
+    "author": "陆游",
+    "from": null,
+    "tags": ["philosophical"]
+  },
+  {
+    "content": "路漫漫其修远兮，吾将上下而求索。",
+    "author": "屈原",
+    "from": null,
+    "tags": ["exploration"]
+  },
+  {
+    "content": "千里之行，始于足下。",
+    "author": "老子",
+    "from": null,
+    "tags": ["accumulation"]
+  },
+  {
+    "content": "不积跬步，无以至千里。",
+    "author": "荀子",
+    "from": null,
+    "tags": ["accumulation"]
+  },
+  {
+    "content": "天生我材必有用，千金散尽还复来。",
+    "author": "李白",
+    "from": null,
+    "tags": ["confidence"]
+  },
+  {
+    "content": "少壮不努力，老大徒伤悲。",
+    "author": null,
+    "from": "《汉乐府·长歌行》",
+    "tags": ["warning"]
+  },
+  {
+    "content": "海内存知己，天涯若比邻。",
+    "author": "王勃",
+    "from": null,
+    "tags": ["friendship"]
+  },
+  {
+    "content": "采菊东篱下，悠然见南山。",
+    "author": "陶渊明",
+    "from": null,
+    "tags": ["idyllic"]
+  },
+  {
+    "content": "人生如逆旅，我亦是行人。",
+    "author": "苏轼",
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "世上无难事，只怕有心人。",
+    "author": null,
+    "from": null,
+    "tags": ["inspirational"]
+  },
+  {
+    "content": "书山有路勤为径，学海无涯苦作舟。",
+    "author": null,
+    "from": null,
+    "tags": ["learning"]
+  },
+  {
+    "content": "笑一笑，十年少。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "生活不止眼前的苟且，还有诗和远方。",
+    "author": "高晓松",
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "别让昨天的烦恼，影响今天的心情。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "人生没有彩排，每一天都是现场直播。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "天道酬勤。",
+    "author": null,
+    "from": null,
+    "tags": ["inspirational"]
+  },
+  {
+    "content": "失败乃成功之母。",
+    "author": null,
+    "from": null,
+    "tags": ["inspirational"]
+  },
+  {
+    "content": "有志者事竟成。",
+    "author": null,
+    "from": null,
+    "tags": ["inspirational"]
+  },
+  {
+    "content": "知足常乐。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "心有多大，舞台就有多大。",
+    "author": null,
+    "from": null,
+    "tags": ["inspirational"]
+  },
+  {
+    "content": "走自己的路，让别人说去吧。",
+    "author": null,
+    "from": null,
+    "tags": ["individuality"]
+  },
+  {
+    "content": "人生自古谁无死，留取丹心照汗青。",
+    "author": "文天祥",
+    "from": null,
+    "tags": ["patriotism"]
+  },
+  {
+    "content": "莫愁前路无知己，天下谁人不识君。",
+    "author": "高适",
+    "from": null,
+    "tags": ["friendship"]
+  },
+  {
+    "content": "读万卷书，行万里路。",
+    "author": "刘彝",
+    "from": null,
+    "tags": ["learning"]
+  },
+  {
+    "content": "不以物喜，不以己悲。",
+    "author": "范仲淹",
+    "from": null,
+    "tags": ["self-cultivation"]
+  },
+  {
+    "content": "人生若只如初见。",
+    "author": "纳兰性德",
+    "from": null,
+    "tags": ["emotion"]
+  },
+  {
+    "content": "人生如戏，全靠演技。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "天高任鸟飞，海阔凭鱼跃。",
+    "author": null,
+    "from": null,
+    "tags": ["freedom"]
+  },
+  {
+    "content": "世事如棋，乾坤莫测。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "人生苦短，及时行乐。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "有山就有路，有河就能渡。",
+    "author": null,
+    "from": null,
+    "tags": ["inspirational"]
+  },
+  {
+    "content": "不怕慢，就怕站。",
+    "author": null,
+    "from": null,
+    "tags": ["inspirational"]
+  },
+  {
+    "content": "笑对人生，坦然处之。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "心静自然凉。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "人生没有如果，只有结果。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "生活就像海洋，只有意志坚强的人才能到达彼岸。",
+    "author": "马克思",
+    "from": null,
+    "tags": ["inspirational"]
+  },
+  {
+    "content": "你若盛开，清风自来。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "人生如白驹过隙，忽然而已。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "不经一事，不长一智。",
+    "author": null,
+    "from": null,
+    "tags": ["experience"]
+  },
+  {
+    "content": "人生如茶，静心以对。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "与其临渊羡鱼，不如退而结网。",
+    "author": null,
+    "from": null,
+    "tags": ["action"]
+  },
+  {
+    "content": "不忘初心，方得始终。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "人生如梦，一尊还酹江月。",
+    "author": "苏轼",
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "知足者常乐，能忍者自安。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "人生没有完美，只有不完美的精彩。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "风雨之后见彩虹。",
+    "author": null,
+    "from": null,
+    "tags": ["inspirational"]
+  },
+  {
+    "content": "心有猛虎，细嗅蔷薇。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "人生如棋，落子无悔。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "不念过往，不畏将来。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "人生在世，须臾自省。",
+    "author": null,
+    "from": null,
+    "tags": ["self-cultivation"]
+  },
+  {
+    "content": "笑看风云淡，坐对云起时。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "人生如行路，一路艰辛，一路风景。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "人生如水，顺其自然。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "不负韶华，不负自己。",
+    "author": null,
+    "from": null,
+    "tags": ["inspirational"]
+  },
+  {
+    "content": "人生如歌，且行且珍惜。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "心若向阳，无畏悲伤。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  },
+  {
+    "content": "人生没有终点，只有新的起点。",
+    "author": null,
+    "from": null,
+    "tags": ["life"]
+  }
+]
